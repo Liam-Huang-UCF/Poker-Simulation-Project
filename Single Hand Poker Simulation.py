@@ -1,3 +1,6 @@
+# This program simulates a single round of poker and determines who wins based on the hand type.
+# If not enough hands are present due to folding strategies, the program will display the result.
+
 import random
 from collections import Counter
 
