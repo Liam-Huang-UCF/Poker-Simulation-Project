@@ -1,3 +1,5 @@
+# This program simulates 10,000 rounds of poker, calculates win rates by hand type after applying realistic folding strategies
+
 import random
 from collections import Counter, defaultdict
 from typing import List, Tuple
